@@ -28,7 +28,7 @@
 </joint>
 <link name="chassis">
 <visual>
-    <oringin xyz="0.15 0 0.075"/>
+    <origin xyz="0.15 0 0.075"/>
         <geometry>
             
             <box size="0.3 0.3 0.15"/>
