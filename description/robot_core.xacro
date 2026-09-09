@@ -28,8 +28,13 @@
 </joint>
 <link name="chassis">
 <visual>
+    <oringin xyz="0.15 0 0.075"/>
         <geometry>
-            <box_size="0.3 0.3 0.15">
+            
+            <box size="0.3 0.3 0.15"/>
 
-
+        </geometry>
+        <material name="white"/>
+</visual>
+</link>
 </robot>
